@@ -1,4 +1,4 @@
-name: Update Hiddify FI-DE-NL
+name: Update VPN subscriptions
 
 on:
   workflow_dispatch:
@@ -22,8 +22,11 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Update subscription
+      - name: Update FI-DE-NL
         run: python filter.py
+
+      - name: Update Europe
+        run: python europe_filter.py
 
       - name: Commit changes
         shell: bash
@@ -31,11 +34,11 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add filtered.txt
+          git add filtered.txt europe.txt
 
           if git diff --cached --quiet; then
             echo "No changes"
           else
-            git commit -m "Update FI-DE-NL VPN subscription"
+            git commit -m "Update VPN subscriptions"
             git push
           fi
