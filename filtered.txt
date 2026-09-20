@@ -2,15 +2,14 @@
 # profile-update-interval: 1
 # Auto-filtered from igareck/vpn-configs-for-russia
 # Countries: Finland, Germany, Netherlands
-# Count: 15
+# Count: 14
 
-hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=127.0.0.1#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
 hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=fr.vpn.legendaah.xyz#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
-hysteria2://Krab9Hyst2_Rk7pQ2xL@fr.vpn.legendaah.xyz:36723?insecure=1&sni=off#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
-hysteria2://d1224950-ffab-4b9a-8696-431b40a6cfbd@cze-02.node.lumixnet.com:443?insecure=1&sni=cze-02.node.lumixnet.com#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.153:8443?sni=grape-turbo-fr.roxa.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?insecure=1&sni=127.0.0.1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%28Amsterdam-Zuidoost%29%20%7C%20%5BBL%5D
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSwgTnVyZW1iZXJnIHwgW0JMXSIsImFkZCI6InN0YXIuc3Rhcm5pY2syMDMwLmlyIiwicG9ydCI6IjkwMjIiLCJ0eXBlIjoibm9uZSIsImlkIjoiMTFjOWRhODctMTk4Yi00MGQ1LWE4M2UtNTQ2ZThjNzNhNTBlIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6InN0YXIuc3Rhcm5pY2syMDMwLmlyIiwidGxzIjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSwgTnVyZW1iZXJnIHwgW0JMXSIsImFkZCI6InN0YXIuc3Rhcm5pY2syMDMwLmlyIiwicG9ydCI6IjkwMjIiLCJpZCI6IjExYzlkYTg3LTE5OGItNDBkNS1hODNlLTU0NmU4YzczYTUwZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJhbHBuIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJzbmkiOiIiLCJmcCI6IiJ9
 vmess://eyJhZGQiOiIxNTEuMjQzLjE3My4xMTkiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiYjNhMTEwNjgtMWE3ZS00NjQzLTg1ZGUtN2M4MmNjZTQ2OTQzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLXdzIiwicG9ydCI6IjMzNzM2IiwicHMiOiLwn4ez8J+HsSBUaGUgTmV0aGVybGFuZHMsIEFtc3RlcmRhbSB8IFtCTF0iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
 trojan://Km%2FpIG4AGCjCOiGWj5FsWA%3D%3D@node8.quaxly.com:25040?security=tls&sni=%2Fgay-anal&alpn=http%2F1.1&allowInsecure=1&type=ws&path=%2Fnode8.quaxly.com&host=%2Fgay-anal&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 trojan://Km%2FpIG4AGCjCOiGWj5FsWA%3D%3D@node8.quaxly.com:25040?security=tls&sni=%2Fgay-anal&alpn=http%2F1.1&allowInsecure=1&type=ws&path=%2Fnode8.quaxly.com&host=%2Fgay-anal&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
