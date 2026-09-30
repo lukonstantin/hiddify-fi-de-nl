@@ -2,8 +2,7 @@
 # profile-update-interval: 1
 # Auto-filtered from igareck/vpn-configs-for-russia
 # Countries: FI, DE, NL, PL, SE, FR, CH, AT, CZ, EE, LV, LT
-# Count: 3
+# Count: 2
 
-hysteria2://finland_hysteria2_fastlane_k28zg2g2o%3A9sRuuhgJxGVWseJCYWIWAR4vt0MEEi4B@31.77.105.67:1935?sni=fi1.h.fastlanehosting.ru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
-hysteria2://hysteria2_fastlane_b3a04caf6%3AVbebEn9ZB3qGuutxwPzMJ2jAAMCwCODk@64.188.74.69:1935?sni=fn1.h.fastlanehosting.ru#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.141:8443?sni=hop-germany-september.dynuddns.com#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.102:8443?sni=grape-test-italy.dynuddns.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
