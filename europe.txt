@@ -2,8 +2,9 @@
 # profile-update-interval: 1
 # Auto-filtered from igareck/vpn-configs-for-russia
 # Countries: FI, DE, NL, PL, SE, FR, CH, AT, CZ, EE, LV, LT
-# Count: 3
+# Count: 4
 
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.127.145:8443?sni=hop-germany-september.dynuddns.com#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Prague%20%7C%20%5BBL%5D
-hysteria2://0a11d3b4-682c-4bfb-afb0-820b8285cb4b@mix.pantera-radio.ru:443?fp=firefox&insecure=1&sni=mix.pantera-radio.ru#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
+hysteria2://06e88dd6-e264-4981-8c26-d7ab17348ab2@2.27.29.120:443?sni=de01.clgate.network#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://ce09043a-5d3b-45df-aea0-5599215146bb@media.embrofree.org:443/?sni=media.embrofree.org#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
+hysteria2://c2f5e996-9fe3-4c98-8d42-69cdef945d72@nl6.meshbeat.online:10808?sni=nl6.meshbeat.online#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Oude%20Meer%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 hysteria2://c2f5e996-9fe3-4c98-8d42-69cdef945d72@nl6.meshbeat.online:10808?sni=nl6.meshbeat.online&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Oude%20Meer%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
