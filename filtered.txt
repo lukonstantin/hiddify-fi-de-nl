@@ -2,11 +2,6 @@
 # profile-update-interval: 1
 # Auto-filtered from igareck/vpn-configs-for-russia
 # Countries: Finland, Germany, Netherlands
-# Count: 6
+# Count: 1
 
-hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@77.74.123.104:8443?sni=grape-test-italy.dynuddns.net#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-hysteria2://c2f5e996-9fe3-4c98-8d42-69cdef945d72@nl6.meshbeat.online:10808?sni=nl6.meshbeat.online#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Oude%20Meer%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-hysteria2://c2f5e996-9fe3-4c98-8d42-69cdef945d72@nl6.meshbeat.online:10808?sni=nl6.meshbeat.online&alpn=h3#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Oude%20Meer%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vmess://eyJhZGQiOiIzMS41OS41OC4yMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiIiLCJpZCI6ImQ2OTAwN2Y5LWIwMzgtNDE1Ni1kMjdmLWY4MWYxODA5NGVjZiIsIm5ldCI6IndzIiwicGF0aCI6Ii9yYXkiLCJwb3J0IjoiMjA3NzIiLCJwcyI6IvCfh6nwn4eqIEdlcm1hbnksIEZyYW5rZnVydCBhbSBNYWluIChJbm5lbnN0YWR0IEkpIHwgW0JMXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwiZnAiOiIifQ==
-trojan://xhl549341@172.64.144.82:443?type=ws&security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B6%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
-trojan://xhl549341@172.64.144.82:443?type=ws&security=tls&sni=tro.baiyi.cloudns.org&alpn=h3&fp=firefox#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%AE%F0%9F%87%B6%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
+hysteria2://e19b5aa3-16c9-435a-8bc9-76f2f6ddff43@64.188.119.177:28015?sni=api-test-udp-trf.kaneki.cfd#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
