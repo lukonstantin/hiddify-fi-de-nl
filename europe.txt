@@ -2,21 +2,8 @@
 # profile-update-interval: 1
 # Auto-filtered from igareck/vpn-configs-for-russia
 # Countries: FI, DE, NL, PL, SE, FR, CH, AT, CZ, EE, LV, LT
-# Count: 16
+# Count: 3
 
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.21:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=firefox#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.33:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=edge#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=ios#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://MDYVt6HgSqB7d537GPQXjk6Rk0E4RxWo@31.77.168.35:443?type=grpc&security=tls&sni=d3-de2.cloud-cdn.xyz&alpn=h2&serviceName=ajv&fp=safari#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-trojan://Trojan%4082164024@pl.tronsg.com:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl.tronsg.com&fp=android#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Gdansk%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://Trojan%4082164024@pl.tronsg.com:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl.tronsg.com&fp=edge#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Gdansk%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://Trojan%4082164024@pl.tronsg.com:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl.tronsg.com&fp=firefox#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Gdansk%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-trojan://Trojan%4082164024@pl.tronsg.com:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=pl.tronsg.com&fp=ios#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Gdansk%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+hysteria2://ZCKyIoQb5p6iV595@pl4.h1cloud.net:25019?insecure=1#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
+vmess://eyJhZGQiOiIzMS41OS41OC4yMzIiLCJ2IjoiMiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSwgRnJhbmtmdXJ0IGFtIE1haW4gKElubmVuc3RhZHQgSSkgfCBbQkxdIiwicG9ydCI6IjIwNzcyIiwiaWQiOiJkNjkwMDdmOS1iMDM4LTQxNTYtZDI3Zi1mODFmMTgwOTRlY2YiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL3JheSIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
+vmess://eyJhZGQiOiIzMS41OS41OC4yMzIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsImlkIjoiZDY5MDA3ZjktYjAzOC00MTU2LWQyN2YtZjgxZjE4MDk0ZWNmIiwibmV0Ijoid3MiLCJwYXRoIjoiL3JheSIsInBvcnQiOiIyMDc3MiIsInBzIjoi8J+HqfCfh6ogR2VybWFueSwgRnJhbmtmdXJ0IGFtIE1haW4gKElubmVuc3RhZHQgSSkgfCBbQkxdIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
