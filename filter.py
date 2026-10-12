@@ -76,9 +76,11 @@ for raw in source_text.splitlines():
 
 
 if not nodes:
-    raise SystemExit(
-        "No FI/DE/NL nodes found; refusing to overwrite filtered.txt"
+    print(
+        "No FI/DE/NL nodes found; "
+        "keeping existing filtered.txt"
     )
+    raise SystemExit(0)
 
 
 header = [
