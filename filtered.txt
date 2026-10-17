@@ -2,17 +2,19 @@
 # profile-update-interval: 1
 # Auto-filtered from igareck/vpn-configs-for-russia
 # Countries: Finland, Germany, Netherlands
-# Count: 63
+# Count: 64
 
 hysteria2://9yOIR2_QAChKs26rYaiX_aoNnOALd0aU@de1server2.rabstvo.shop:8443?sni=de1server2.rabstvo.shop#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?alpn=h3&insecure=1&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&sni=91.196.32.163#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&sni=germany3.h2corp.local#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?security=tls&sni=91.196.32.163&alpn=h3&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?security=tls&sni=germany3.h2corp.local&alpn=h3&insecure=1#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgVGhlIE5ldGhlcmxhbmRzLCBBbXN0ZXJkYW0gfCBbQkxdIiwiYWRkIjoibmwtMmE5NzJjODA1Mi5zaGFtYW5hcHAub25saW5lIiwicG9ydCI6IjMzNzM2IiwiaWQiOiIxMjgxYWNjYS1mMjFkLTQ3NWMtYmYwNC1lY2NiZWU3ZjhkZjIiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoibmwtMmE5NzJjODA1Mi5zaGFtYW5hcHAub25saW5lIiwiYWxwbiI6IiIsInBhdGgiOiIvdm1lc3Mtd3MiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiZnAiOiIiLCJuYW1lIjoiTkwg8J+Hs/Cfh7EgfCBAUmF5ZGlrYWx4IHwgNzNFMjNGIn0=
 trojan://cMCQxnflDO@31.76.10.180:36508?type=tcp&security=none#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://M7v%25w11Se%2A@35.246.185.109:443?allowInsecure=1&security=tls&sni=dggg.wsone.icu#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://M7v%25w11Se%2A@35.246.185.109:443?type=tcp&security=tls&fp=chrome&sni=dggg.wsone.icu#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://M7v%25w11Se%2A@dggg.wsone.icu:443?type=tcp&security=tls&fp=chrome&sni=dggg.wsone.icu#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
+trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?path=%2Ff2fc2a1f&security=tls&insecure=0&host=freetoplay-2.tetris-game.world&type=ws&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.volumerOot.coM.&fp=android&type=ws&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&fp=qq&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
@@ -25,7 +27,6 @@ trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayN
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=android&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=edge&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=firefox&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&host=www.volumeroot.com&fp=ios&type=ws&allowInsecure=0&sni=www.volumeroot.com#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
@@ -50,6 +51,7 @@ trojan://humanity@188.42.145.180:443?type=ws&security=tls&path=%2Fassignment&sni
 trojan://humanity@188.42.145.180:443?type=ws&security=tls&path=%2Fassignment&sni=wWw.Volumeroot.cOm.&alpn=http%2F1.1&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?type=ws&security=tls&path=%2Fassignment&sni=wWw.Volumeroot.cOm.&alpn=http%2F1.1&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@188.42.145.180:443?type=ws&security=tls&path=%2Fassignment&sni=wWw.Volumeroot.cOm.&fp=chrome&alpn=http%2F1.1#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://humanity@45.131.4.38:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%2B%5B%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%22tlshello%22%2C%2B%22lengths%22%3A%2B%5B%220%22%2C%2B%22104%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%220%22%5D%2C%2B%22maxSplit%22%3A%2B%220%22%7D%7D%2C%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%221-1%22%2C%2B%22lengths%22%3A%2B%5B%22114%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%221%22%5D%2C%2B%22maxSplit%22%3A%2B%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.pleadcourt.org&type=ws&sni=www.pleadcourt.org&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
@@ -65,5 +67,4 @@ trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host
 trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=qq#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=/assignment#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
-trojan://bpb-trojan@172.64.80.1:443?security=tls&sni=vless.herogoing.top&type=ws&path=/tr?ed=2560&Host=vless.herogoing.top#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
-trojan://70756c73-0000-4000-8000-650000000000@199.181.197.99:443?security=tls&sni=parsa-panel-u48we.wotic15356.workers.dev&fp=chrome&type=ws&host=parsa-panel-u48we.wotic15356.workers.dev&path=%2Fpulse#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+trojan://bpb-trojan@172.64.80.1:443?security=tls&sni=vless.herogoing.top&type=ws&path=/tr?ed=2560&Host=vless.herogoing.top#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
