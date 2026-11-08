@@ -2,14 +2,7 @@
 # profile-update-interval: 1
 # Auto-filtered from igareck/vpn-configs-for-russia
 # Countries: Finland, Germany, Netherlands
-# Count: 9
+# Count: 2
 
-hysteria2://190edece-2750-454c-b766-0570fc32deca@89.125.214.221:19455?sni=mshvpn.online&fp=firefox&alpn=h3#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
-vmess://eyJhZGQiOiJkZS56aG91LXl1ZmFuLmNvbSIsImFscG4iOiIiLCJmcCI6IiIsImlkIjoiZjM4ZTU5MWQtZDEzYS00YzMwLTk3NjMtNmJlM2FkNjVmM2VjIiwibmV0IjoicmF3IiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqfCfh6ogR2VybWFueSwgRMO8c3NlbGRvcmYgfCDwn4yQIHwgW0JMXSIsInNjeSI6ImF1dG8iLCJzbmkiOiJkZS56aG91LXl1ZmFuLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIiLCJhaWQiOiIwIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
-trojan://gHQP0D7D15@104.24.0.1:2053?security=tls&sni=marvdasht.phonecomparisonblog.org&type=ws&path=%2F&Host=marvdasht.phonecomparisonblog.org&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?allowInsecure=1&fp=chrome&security=tls&sni=t.me%252525252Ffuckthewall&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?allowInsecure=1&fp=chrome&security=tls&sni=t.me%25252Ffuckthewall&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?insecure=1&security=tls&sni=de-bots4.h1cloud.net&type=tcp&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-trojan://happybirthdaydaniel@de-bots4.h1cloud.net:25267?security=tls&sni=de-bots4.h1cloud.net&insecure=1&allowInsecure=1&type=tcp&fp=safari#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Amsterdam%20%7C%20%5BBL%5D
-trojan://Nd2bFutZK2ma29bYqC%40z@4okhrijuyjytflnvowhl3zfw5wsgi34o.pages.dev:443?path=/tr/2W6ONoBA1CTMk80znuAVgQ9dvWey2KD8?ed=2560&security=tls&alpn=http/1.1&host=4okhrijuyjytflnvowhl3zfw5wsgi34o.pages.dev&fp=chrome&type=ws&sni=4oKhrijUyjyTFlnvoWhL3ZFW5wSGI34O.PAGeS.DeV#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-trojan://MiTiVPN@199.232.78.160:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=MiTiVPN-1-mitivpn.ac.ir&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
+hysteria2://cJytMmPWpB4JAC-VlzE8rCMhcLznQiLb@31.56.189.198:27017?sni=static.cdnnow.xyz#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%AA%20%F0%9F%87%A9%F0%9F%87%AA%20%7C%20%5BBL%5D
+trojan://MiTiVPN@167.82.64.7:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=MiTiVPN-1-mitivpn.ac.ir&path=%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=cdn.akamai.steamstatic.com&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B3%F0%9F%87%B1%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
