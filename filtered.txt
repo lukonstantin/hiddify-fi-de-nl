@@ -2,12 +2,7 @@
 # profile-update-interval: 1
 # Auto-filtered from igareck/vpn-configs-for-russia
 # Countries: Finland, Germany, Netherlands
-# Count: 7
+# Count: 2
 
-hysteria2://5646b5cf-9844-446f-80cf-ccdefb1ba23a@vieee.observation.today:443?security=tls&sni=vie.observation.today&alpn=h3&insecure=0#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Nuremberg%20%7C%20%5BBL%5D
-vmess://eyJhZGQiOiI5NC4xODQuMTguMTMwIiwiaWQiOiI0NWRjNTA4Ni1mMzBkLTRiMzQtYWFjNC02MTJjMDc0MjQzYzgiLCJwb3J0IjoiNDQ1ODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJyYXciLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJwcyI6IvCfh6nwn4eqIEdlcm1hbnksIEZhbGtlbnN0ZWluIHwgW0JMXSIsImFpZCI6IjAiLCJob3N0IjoiIiwicGF0aCI6IiIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
-trojan://bpb-trojan@singapore.com:443?security=tls&sni=kargar001.pages.dev&fp=randomized&alpn=h3&type=ws&path=%2Ftr%3Fed%3D2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-trojan://pH%5B%5DS%5BBh%3A_%3AD6T4k@104.19.45.195:443?security=tls&sni=AZaDneT-692.PagEs.DEv&fp=chrome&type=ws&path=%2FtrsVu9Ualb1DOfGjpw#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-trojan://bpb-trojan@russia.com:443?security=tls&sni=kargar001.pages.dev&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=kargar001.pages.dev&path=%2Ftr%3Fed%3D2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-trojan://d0298536-d670-4045-bbb1-ddd5ea68683e@104.19.173.68:443?type=ws&security=tls&path=%2Fazadnet-5vk.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dtrojan&sni=azadnet-5vk.pages.dev&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
-trojan://ec1fa47d-4eac-4b3f-8cae-4a2982d43e2f@www.wto.org:8443?security=tls&type=ws&host=jiangjc.pages.dev&path=%2F&sni=jiangjc.pages.dev#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%7C%20%5BBL%5D
+vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgVGhlIE5ldGhlcmxhbmRzLCBBbXN0ZXJkYW0gfCBbQkxdIiwiYWRkIjoidWszLTIuOTk4OTk4LmJlc3QiLCJwb3J0IjoiNDQzIiwiaWQiOiI5Yzg1MTYwNi05NzIyLTQyZmMtYTFjMS0xNzVjM2M4MmE3YWUiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoid3MiLCJob3N0Ijoic2VydmVyMjIuOTk2NjMzOC54eXoiLCJwYXRoIjoiL3NlcmhyZGZ0c2hnP2VkPTI1NjAiLCJ0bHMiOiJ0bHMiLCJzbmkiOiJzZXJ2ZXIyMi45OTY2MzM4Lnh5eiIsImZwIjoiY2hyb21lIiwiZWNoIjoic2VydmVyMjIuOTk2NjMzOC54eXoraHR0cHM6Ly9kb2gucHViL2Rucy1xdWVyeSIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIn0=
+vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOiIwIiwiZWNoIjoic2VydmVyNDAuOTk2NjMzOC54eXoraHR0cHM6Ly9kb2gucHViL2Rucy1xdWVyeSIsImhvc3QiOiJzZXJ2ZXI0MC45OTY2MzM4Lnh5eiIsImlkIjoiOWM4NTE2MDYtOTcyMi00MmZjLWExYzEtMTc1YzNjODJhN2FlIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FpYWlhaSIsInBvcnQiOiI0NDMiLCJwcyI6IvCfjJAgQW55Y2FzdC1JUCB8IPCfh6nwn4eqIPCfh6rwn4eqIHwgW0JMXSIsInNuaSI6InNlcnZlcjQwLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IndzIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiIsImZwIjoiIn0=
