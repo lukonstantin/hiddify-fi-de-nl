@@ -2,6 +2,7 @@
 # profile-update-interval: 1
 # Auto-filtered from igareck/vpn-configs-for-russia
 # Countries: Finland, Germany, Netherlands
-# Count: 1
+# Count: 2
 
-trojan://X00HagvwL8gQXNDAnsxsN8dv1_VdneEo@5.59.204.26:21443?alpn=h2%2Ch3%2Chttp%2F1.1&host=fi1.nebulaguard.org&path=%2Ftrojan%2F&security=tls&sni=fi1.nebulaguard.org&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+vmess://eyJhZGQiOiJhbXlyYXgtcGFuZWwtYTRkd2wuc2V2YWxsYS5hcHAiLCJhaWQiOiIwIiwiaG9zdCI6ImFteXJheC1wYW5lbC1hNGR3bC5zZXZhbGxhLmFwcCIsImlkIjoiNTUwYjIxZGYtZTdjYS00MzI1LWJkMmEtNTJhODc3NGZmYmRhIiwibmV0Ijoid3MiLCJwYXRoIjoiL1RlbGVncmFtPUBBbXlyYXhWUE4iLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ep8J+HqiBHZXJtYW55LCBGcmFua2Z1cnQgYW0gTWFpbiAoSW5uZW5zdGFkdCBJKSB8IFtCTF0iLCJzY3kiOiJhdXRvIiwic25pIjoiYW15cmF4LXBhbmVsLWE0ZHdsLnNldmFsbGEuYXBwIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsImFscG4iOiIiLCJmcCI6IiJ9
+trojan://550b21df-e7ca-4325-bd2a-52a8774ffbda@amyrax-panel-a4dwl.sevalla.app:443?alpn=http%2F1.1&fp=chrome&host=amyrax-panel-a4dwl.sevalla.app&path=%2FTelegram%3D%40AmyraxVPN&security=tls&sni=amyrax-panel-a4dwl.sevalla.app&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%28Innenstadt%20I%29%20%7C%20%5BBL%5D
