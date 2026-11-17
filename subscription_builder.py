@@ -32,7 +32,7 @@ def decode_vmess(line):
     try:
         payload = line[8:].split("#", 1)[0]
         payload += "=" * (-len(payload) % 4)
-        return json.loads(base64.urlsafe_b64decode(payload).decode("utf-8"))
+        return json.loads(base64.b64decode(payload, altchars=b"-_", validate=True).decode("utf-8"))
     except (ValueError, UnicodeError, TypeError):
         return {}
 
