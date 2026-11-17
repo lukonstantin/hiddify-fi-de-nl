@@ -1,6 +1,15 @@
 name: Update VPN subscriptions
 
 on:
+  push:
+    branches:
+      - fix/hiddify-source-validation-20261117
+    paths:
+      - 'filter.py'
+      - 'europe_filter.py'
+      - 'subscription_builder.py'
+      - 'test_subscription_builder.py'
+      - '.github/workflows/update.yml'
   workflow_dispatch:
 
   schedule:
@@ -21,6 +30,9 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+
+      - name: Test subscription filters
+        run: python -m unittest -v test_subscription_builder.py
 
       - name: Update FI-DE-NL
         run: python filter.py
