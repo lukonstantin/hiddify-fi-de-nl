@@ -3,8 +3,10 @@ name: Update VPN subscriptions
 on:
   push:
     branches:
+      - main
       - fix/hiddify-source-validation-20261117
     paths:
+      - 'mobile_filter.py'
       - 'filter.py'
       - 'europe_filter.py'
       - 'subscription_builder.py'
@@ -40,13 +42,16 @@ jobs:
       - name: Update Europe
         run: python europe_filter.py
 
+      - name: Update mobile
+        run: python mobile_filter.py
+
       - name: Commit changes
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add filtered.txt europe.txt
+          git add filtered.txt europe.txt mobile.txt
 
           if git diff --cached --quiet; then
             echo "No changes"
